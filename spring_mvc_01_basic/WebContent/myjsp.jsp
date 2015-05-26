@@ -6,6 +6,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<!-- 수정한 jsp - 150526 최지우 -->
 마이jsp
 line1
 line2
