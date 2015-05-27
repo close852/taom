@@ -10,11 +10,10 @@
 마이jsp
 line1
 line2
-line3-----김성환 변경
+line3
 line4
 line5
 line6
 line7
-새로 추가할 내용입니다....-김성환
 </body>
 </html>
